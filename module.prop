@@ -1,0 +1,8 @@
+id=AvroidPriv
+name=AvroidPriv
+version=v1.00
+versionCode=1
+author=NaeemBolchhi, AdroitAdorKhan
+description=Systemlessly installs either Avroid Stable or Avroid Beta, as a privileged app, based on user choice.
+support=https://tinyurl.com/Avroid
+minMagisk=1500

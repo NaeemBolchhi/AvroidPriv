@@ -1,0 +1,7 @@
+<permissions>
+  <privapp-permissions package="avroid.bangla.keyboard">
+    <permission name="android.permission.VIBRATE"/>
+    <permission name="android.permission.INTERNET"/>
+    <permission name="android.permission.RECORD_AUDIO"/>
+  </privapp-permissions>
+</permissions>

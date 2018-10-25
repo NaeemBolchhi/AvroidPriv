@@ -1,4 +1,4 @@
-# Avroid Keyboard Priv
+# Avroid Keyboard Privileged
 This module systemlessly installs either Avroid Stable or Avroid Beta, as a privileged app, based on user choice.
 
 ## Information
